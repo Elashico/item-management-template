@@ -104,7 +104,3 @@ cd your-repository-name
 5. Open the local development URL provided in your terminal (typically `http://localhost:5173`) in your browser.
 
 ---
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
